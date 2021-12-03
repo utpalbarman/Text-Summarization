@@ -5,7 +5,8 @@ This project is done by
 # Nawaz Khan Choudhury 
 # Mustafizur Rahman 
 under my supervison as B.Tech final year project
-**Abstarct of the Work"**
+
+# **Abstarct of the Work"**
 Automatic text summarization is part of the field of natural language processing, which is
 how computers can analyze, understand, and derive meaning from human language. The
 automatic text summarization algorithm is able to function in a variety of situationsthat other
