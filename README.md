@@ -1,9 +1,9 @@
 # Text-Summarization
 # Unsupervised Extractive News Articles Summarization leveraging Statistical, Topic-Modelling and Graph-Based Approaches
 This project is done by 
-#Vishal Barman
-#Nawaz Khan Choudhury 
-#Mustafizur Rahman 
+# Vishal Barman
+# Nawaz Khan Choudhury 
+# Mustafizur Rahman 
 under my supervison as B.Tech final year project
 **Abstarct of the Work"**
 Automatic text summarization is part of the field of natural language processing, which is
