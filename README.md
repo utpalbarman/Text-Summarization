@@ -1,4 +1,4 @@
-# Text-Summarization (Final Code will be updated once the paper accept)
+# Text-Summarization (Final Code will be updated once the paper accepted)
 # Unsupervised Extractive News Articles Summarization leveraging Statistical, Topic-Modelling and Graph-Based Approaches
 This project is done by 
 # Vishal Barman
